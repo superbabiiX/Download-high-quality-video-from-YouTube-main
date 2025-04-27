@@ -18,7 +18,7 @@ This Python script uses `yt-dlp` to download high-quality videos from YouTube. I
 Clone this repository:
 
 ```bash
-git clone https://github.com/superbabii/Download-high-quality-video-from-YouTube.git
+git clone https://github.com/superbabiiX/Download-high-quality-video-from-YouTube.git
 ```
 
 Install the required dependencies:
